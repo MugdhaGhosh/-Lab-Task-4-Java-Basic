@@ -1,0 +1,8 @@
+public class str13 {
+     public static void main(String[] args) {
+    String x = "20";
+    String y = "26";
+    String z = x + y;
+    System.out.println(z);
+  }
+}
