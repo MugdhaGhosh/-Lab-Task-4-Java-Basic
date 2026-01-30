@@ -1,0 +1,7 @@
+public class str10 {
+     public static void main(String[] args) {
+    String firstName = "mugdha ";
+    String lastName = "Ghosh";
+    System.out.println(firstName.concat(lastName));
+  }
+}
