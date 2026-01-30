@@ -1,0 +1,7 @@
+public class str9 {
+     public static void main(String[] args) {
+    String name = "Mugdha";
+    int age = 19;
+    System.out.println("My name is " + name + " and I am " + age + " years old.");
+  }
+}
