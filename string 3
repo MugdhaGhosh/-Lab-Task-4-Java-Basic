@@ -1,0 +1,7 @@
+public class str3 {
+    public static void main(String[] args) {
+    String txt = "We can convert this string to upper and lower case.";
+    System.out.println(txt.toUpperCase());
+    System.out.println(txt.toLowerCase());
+  }
+}
