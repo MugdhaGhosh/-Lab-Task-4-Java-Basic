@@ -1,0 +1,7 @@
+public class str8 {
+     public static void main(String args[]) {
+    String firstName = "Mugdha";
+    String lastName = "Ghosh";
+    System.out.println(firstName + " " + lastName);
+  }
+}
